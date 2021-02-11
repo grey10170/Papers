@@ -1,3 +1,3 @@
-*/Training
-*/__pycache__
-*/Datas
+__pycache__/
+**/__pycache__/
+*/Data/

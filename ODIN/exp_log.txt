@@ -1,0 +1,17 @@
+{'batch_size': 32, 'device_id': 0, 'n_workers': 4, 'dataset': 'TinyImageNet', 'transform': 'Crop', 'temp': 1.0, 'epsilon': 0.0}, FPR: 0.6693333333333333, AUROC: 0.8555974749999999
+{'batch_size': 16, 'device_id': 0, 'n_workers': 4, 'dataset': 'TinyImageNet', 'transform': 'Crop', 'temp': 1.0, 'epsilon': 0.002}, FPR: 0.16425, AUROC: 0.9659506250000193
+{'batch_size': 32, 'device_id': 0, 'n_workers': 4, 'dataset': 'TinyImageNet', 'transform': 'Crop', 'temp': 1000.0, 'epsilon': 0.0}, FPR: 0.6026666666666667, AUROC: 0.8782148250000043
+{'batch_size': 16, 'device_id': 0, 'n_workers': 4, 'dataset': 'TinyImageNet', 'transform': 'Crop', 'temp': 1000.0, 'epsilon': 0.002}, FPR: 0.17966666666666667, AUROC: 0.9662501583333241
+{'batch_size': 32, 'device_id': 0, 'n_workers': 4, 'dataset': 'TinyImageNet', 'transform': 'Resize', 'temp': 1.0, 'epsilon': 0.0}, FPR: 0.7669166666666667, AUROC: 0.8025040916666659
+{'batch_size': 16, 'device_id': 0, 'n_workers': 4, 'dataset': 'TinyImageNet', 'transform': 'Resize', 'temp': 1.0, 'epsilon': 0.002}, FPR: 0.24591666666666667, AUROC: 0.9377907999999984
+{'batch_size': 32, 'device_id': 0, 'n_workers': 4, 'dataset': 'TinyImageNet', 'transform': 'Resize', 'temp': 1000.0, 'epsilon': 0.0}, FPR: 0.737, AUROC: 0.813554116666677
+{'batch_size': 16, 'device_id': 0, 'n_workers': 4, 'dataset': 'TinyImageNet', 'transform': 'Resize', 'temp': 1000.0, 'epsilon': 0.002}, FPR: 0.33458333333333334, AUROC: 0.9265903083333143
+{'batch_size': 32, 'device_id': 0, 'n_workers': 4, 'dataset': 'LSUN', 'transform': 'Crop', 'temp': 1.0, 'epsilon': 0.0}, FPR: 0.7951, AUROC: 0.783745140000002
+{'batch_size': 16, 'device_id': 0, 'n_workers': 4, 'dataset': 'LSUN', 'transform': 'Crop', 'temp': 1.0, 'epsilon': 0.002}, FPR: 0.3023, AUROC: 0.9345965500000034
+{'batch_size': 32, 'device_id': 0, 'n_workers': 4, 'dataset': 'LSUN', 'transform': 'Crop', 'temp': 1000.0, 'epsilon': 0.0}, FPR: 0.7405, AUROC: 0.8022689099999961
+{'batch_size': 16, 'device_id': 0, 'n_workers': 4, 'dataset': 'LSUN', 'transform': 'Crop', 'temp': 1000.0, 'epsilon': 0.002}, FPR: 0.3276, AUROC: 0.9370551400000132
+{'batch_size': 32, 'device_id': 0, 'n_workers': 4, 'dataset': 'LSUN', 'transform': 'Resize', 'temp': 1.0, 'epsilon': 0.0}, FPR: 0.8387, AUROC: 0.7697451100000076
+{'batch_size': 16, 'device_id': 0, 'n_workers': 4, 'dataset': 'LSUN', 'transform': 'Resize', 'temp': 1.0, 'epsilon': 0.002}, FPR: 0.3031, AUROC: 0.9211922799999966
+{'batch_size': 32, 'device_id': 0, 'n_workers': 4, 'dataset': 'LSUN', 'transform': 'Resize', 'temp': 1000.0, 'epsilon': 0.0}, FPR: 0.8622, AUROC: 0.74590644
+{'batch_size': 16, 'device_id': 0, 'n_workers': 4, 'dataset': 'LSUN', 'transform': 'Resize', 'temp': 1000.0, 'epsilon': 0.002}, FPR: 0.5027, AUROC: 0.8863479400000055
+
